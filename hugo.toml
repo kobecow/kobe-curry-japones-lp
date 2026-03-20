@@ -1,0 +1,9 @@
+baseURL = 'https://kobecurryjapones.com/'
+languageCode = 'es-co'
+title = 'Kobe Curry de Armenia'
+theme = 'hugo-scroll
+
+[params]
+  description = 'El auténtico sabor de la comida casera japonesa en Armenia.'
+  whatsapp = '573226059255'
+  address = 'Norte de Armenia, cerca de Oro Negro'
